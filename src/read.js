@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Button } from 'bootstrap';
+// import { Button } from 'bootstrap';
 import { Link } from 'react-router-dom';
 
 function Read() {
